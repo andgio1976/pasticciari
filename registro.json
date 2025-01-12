@@ -22,82 +22,90 @@
     ]
   },
  {
-    "nome":"Mario",
-    "cognome":"Rossi",
-    "codicef":"MRRSS29EIIE29092",
-    "telefono":"3349348392",
-    "email":"mario.rossi@denina.it",
+    "nome":"Simona",
+    "cognome":"Verdi",
+    "codicef":"SMVRD29AB82HD",
+    "telefono":"3351122392",
+    "email":"simona.verdi@denina.it",
     "classe":"4L",
     "voti":[
     {
       "materia":"informatica",
-      "voto":8
+      "voto":4
     },
     {
       "materia":"storia",
-      "voto":6
+      "voto":5
     },
     {
       "materia":"inglese",
-      "voto":5
+      "voto":4
     }
     ]
   },
  {
-    "nome":"Mario",
-    "cognome":"Rossi",
-    "codicef":"MRRSS29EIIE29092",
-    "telefono":"3349348392",
-    "email":"mario.rossi@denina.it",
+    "nome":"Luca",
+    "cognome":"Nero",
+    "codicef":"LCNR72AG88HDG77",
+    "telefono":"3429238485",
+    "email":"luca.nero@denina.it",
     "classe":"4L",
     "voti":[
     {
       "materia":"informatica",
-      "voto":8
-    },
-    {
-      "materia":"storia",
       "voto":6
     },
     {
+      "materia":"storia",
+      "voto":4
+    },
+    {
       "materia":"inglese",
-      "voto":5
+      "voto":7
+    },
+      {
+      "materia":"sistemi",
+      "voto":7
     }
     ]
   },
  {
-    "nome":"Mario",
-    "cognome":"Rossi",
-    "codicef":"MRRSS29EIIE29092",
-    "telefono":"3349348392",
-    "email":"mario.rossi@denina.it",
+    "nome":"Lucia",
+    "cognome":"Blu",
+    "codicef":"LCBL83LT8382DR",
+    "telefono":"3473848559",
+    "email":"lucia.blu@denina.it",
     "classe":"4L",
     "voti":[
     {
       "materia":"informatica",
-      "voto":8
+      "voto":9
     },
     {
       "materia":"storia",
-      "voto":6
+      "voto":9
     },
     {
       "materia":"inglese",
-      "voto":5
-    }
+      "voto":9
+    },
+    {
+      "materia":"TPSIT",
+      "voto":6
+    },
     ]
   },
  {
-    "nome":"Mario",
-    "cognome":"Rossi",
-    "codicef":"MRRSS29EIIE29092",
-    "telefono":"3349348392",
-    "email":"mario.rossi@denina.it",
+    "nome":"Antonio",
+    "cognome":"Arancio",
+    "codicef":"NTNRNC47GF737ERT",
+    "telefono":"3203822374",
+    "email":"antonio.arancio@denina.it",
     "classe":"4L",
     "voti":[
     {
       "materia":"informatica",
-      "voto":8
+      "voto":6
     },
     {
       "materia":"storia",
@@ -105,7 +113,11 @@
     },
     {
       "materia":"inglese",
-      "voto":5
+      "voto":6
+    },
+    {
+      "materia":"TPSIT",
+      "voto":6
     }
     ]
   }
